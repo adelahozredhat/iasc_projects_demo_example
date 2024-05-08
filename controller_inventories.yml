@@ -1,4 +1,8 @@
 controller_inventories:
+- description: ''
+  kind: ''
+  name: Demo Inventory
+  organization: {name: Default, type: organization}
 - description: Prueba
   kind: ''
   name: Prueba
