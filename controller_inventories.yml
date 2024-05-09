@@ -1,9 +1,9 @@
 controller_inventories:
-- description: ''
-  kind: ''
-  name: Demo Inventory
-  organization: {name: Default, type: organization}
 - description: Prueba
   kind: ''
   name: Prueba
   organization: {name: Prueba, type: organization}
+- description: ''
+  kind: ''
+  name: Demo Inventory
+  organization: {name: Default, type: organization}
